@@ -1,0 +1,16 @@
+{
+  "name": "token-notifier",
+  "version": "0.1.0",
+  "description": "'get notified when someone joins up for a game of token badlands'",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Valle",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^2.1.1",
+    "node-notifier": "^4.1.0"
+  }
+}
